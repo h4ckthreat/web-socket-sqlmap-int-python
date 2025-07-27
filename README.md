@@ -1,4 +1,4 @@
-# 🌐 Middleware HTTP → WebSocket
+# 🌐 Pthon Middleware HTTP → WebSocket
 
 Este repositório contém um código Python que atua como um **middleware entre requisições HTTP e um servidor WebSocket**, ideal para fins educacionais, CTFs e testes de segurança autorizados.
 
