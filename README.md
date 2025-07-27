@@ -113,7 +113,7 @@ pip install websocket-client
 ### 2. Execute o servidor
 
 ```bash
-python3 middleware.py
+python3 Pyhon-Middleware-HTTP-WebSocket.py
 ```
 
 ### 3. Envie requisições
