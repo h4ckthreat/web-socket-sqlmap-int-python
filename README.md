@@ -126,7 +126,7 @@ curl "http://localhost:8081/?id=admin"
 
 ## 👨‍💻 Autor
 
-- [r0daemon](https://github.com/0daemon)
+- [h4ckthreat](https://github.com/h4ckthreat)
 
 ---
 
